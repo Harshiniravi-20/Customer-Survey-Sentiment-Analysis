@@ -14,42 +14,72 @@ Classify customer feedback into Positive, Negative, and Neutral sentiments.
 Calculate sentiment polarity scores.
 Visualize sentiment distribution.
 🛠️ Technologies Used
+
 Python
+
 Pandas
+
 NumPy
+
 TextBlob
+
 Matplotlib
+
 Jupyter Notebook
 📂 Dataset Features
+
 Column	Description
+
 Customer_ID	Unique Customer ID
+
 Name	Customer Name
+
 Age	Customer Age
+
 Gender	Gender
+
 City	Customer City
+
 Satisfaction_Score	Customer Satisfaction Rating
+
 Feedback	Customer Review
+
 Purchase_Amount	Purchase Amount
+
 Survey_Date	Survey Date
+
 Preferred_Channel	Communication Channel
 
 🔄 Project Workflow
 
 1️⃣ Import Libraries
+
 Pandas
+
 NumPy
+
 TextBlob
+
 Matplotlib
 
+
 2️⃣ Load Dataset
+
 Read Excel dataset
+
 Display sample records
+
 Understand dataset structure
 
+
 3️⃣ Data Cleaning
+
 Check missing values
+
 Replace missing values
+
 Convert feedback into text format
+
 
 4️⃣ Sentiment Classification
 
@@ -63,9 +93,13 @@ Polarity	Sentiment
 Example:
 
 Feedback	Sentiment
+
 Good service	Positive
+
 Poor packaging	Negative
+
 Delayed response	Neutral
+
 
 5️⃣ Polarity Score Calculation
 
@@ -74,33 +108,49 @@ Each customer review receives a sentiment polarity score between -1 and 1.
 Example:
 
 Feedback	Polarity
+
 Excellent support	1.00
+
 Good service	0.70
+
 Poor packaging	-0.40
+
 Delayed response	0.00
+
 
 6️⃣ Data Visualization
 
 Bar chart showing:
 
 Positive Reviews
+
 Negative Reviews
+
 Neutral Reviews
 
+
 📊 Sample Output
+
 Feedback	Polarity	Sentiment
+
 Good service	0.70	Positive
+
 Excellent support	1.00	Positive
+
 Average experience	-0.15	Negative
+
 Fast delivery	0.20	Positive
+
 Delayed response	0.00	Neutral
 
+
 📈 Business Insights
+
 Identify customer satisfaction trends.
+
 Detect common customer complaints.
-Measure customer experience.
-Improve products and services using customer feedback.
-Support data-driven business decisions.
+
+Measure customer experience.Improve products and services using customer feedback.Support data-driven business decisions.
 
 📁 Project Structure
 Customer-Survey-Sentiment-Analysis/
