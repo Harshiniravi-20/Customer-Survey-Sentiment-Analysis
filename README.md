@@ -104,11 +104,17 @@ Support data-driven business decisions.
 
 📁 Project Structure
 Customer-Survey-Sentiment-Analysis/
+
 │
+
 ├── customer survey Sentiment Analysis.ipynb
+
 ├── customer survey data.xlsx
+
 ├── README.md
+
 └── requirements.txt
+
 ▶️ Installation
 
 Clone the repository
@@ -126,12 +132,19 @@ pip install -r requirements.txt
 Run the notebook
 
 jupyter notebook
+
 📦 Requirements
+
 pandas
+
 numpy
+
 matplotlib
+
 textblob
+
 openpyxl
+
 jupyter
 
 You can install them using:
