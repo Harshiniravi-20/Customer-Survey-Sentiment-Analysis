@@ -214,7 +214,12 @@ Create an interactive Power BI dashboard.
 Deploy the project using Streamlit.
 📸 Project Screenshots
 
-Include screenshots of:
+Include screenshots of:<img width="1866" height="858" alt="Screenshot 2026-07-04 134406" src="https://github.com/user-attachments/assets/8ab44500-048f-4b54-bea1-251e4e7fa9c2" />
+<img width="1866" height="891" alt="Screenshot 2026-07-04 134446" src="https://github.com/user-attachments/assets/9833880a-b454-4088-8b7f-269c333d24e1" />
+<img width="1847" height="862" alt="Screenshot 2026-07-04 134530" src="https://github.com/user-attachments/assets/c457ec51-7815-413a-b74a-2691bce2cd7f" />
+
+
+
 
 Dataset Preview
 Missing Value Analysis
